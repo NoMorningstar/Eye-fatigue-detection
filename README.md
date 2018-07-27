@@ -5,6 +5,7 @@ Nonintrusive methods for eye locating and tracking arithmetic in fatigue detecti
 install all libarys
 * scipy,opencv,numpy,imutils,pyglet,dlib
 installation of Dlib libary
+
 Pre-reqs:
 * On Linux:
   * Install boost. On Ubuntu, that's sudo apt-get install libboost-all-dev
