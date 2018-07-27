@@ -1,7 +1,7 @@
 # Eye-fatigue-detection
 Nonintrusive methods for eye locating and tracking arithmetic in fatigue detection research
 # intallation process
-## step 1:
+# step 1:
 install all libarys
 * scipy,opencv,numpy,imutils,pyglet,dlib
 installation of Dlib libary
